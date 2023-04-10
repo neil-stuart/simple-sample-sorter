@@ -1,0 +1,1 @@
+Fix letters writing onto border when string is too long.
