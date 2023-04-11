@@ -1,4 +1,4 @@
-# SimpleSampleSorter
+# Simple Sample Sorter
 
 To speed up the process of sorting music samples.
 
