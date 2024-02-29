@@ -35,8 +35,3 @@ This structure is designed to keep the codebase organized and modular, facilitat
 
 Contributions are welcome! Whether it's through suggesting new features, improving the code, or reporting bugs, every bit of help counts. Feel free to fork the repository and submit your pull requests.
 
-## Acknowledgments 🙏
-
-A heartfelt thank you to all contributors and supporters of the Simple Sample Sorter project. Your insights and feedback are invaluable to making this tool better for everyone in the music production community.
-
-Stay tuned for more updates and features as we continue to build and improve this project!
