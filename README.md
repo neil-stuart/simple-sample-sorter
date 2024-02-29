@@ -18,7 +18,7 @@ Develop a terminal-based file explorer using Python's `curses` to expedite the s
 The project is under active development, with several key functionalities already implemented. We are working diligently to integrate the planned features to realize the full vision of the Simple Sample Sorter.
 
 ### Source Directory Structure 📂
-
+```
 └───src
 │ dcs.py # File decorator constants 
 │ file_util.py # File utilities for operations
@@ -28,7 +28,7 @@ The project is under active development, with several key functionalities alread
 │ test.py # Testing utilities
 │ widgets.py # UI widgets for enhanced interaction
 │ w_id.py # Widget identification and management
-
+```
 This structure is designed to keep the codebase organized and modular, facilitating easy updates and feature additions.
 
 ### How to Contribute 🤝
